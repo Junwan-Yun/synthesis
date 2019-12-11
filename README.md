@@ -1,2 +1,8 @@
 # synthesis
-https://drive.google.com/file/d/1d2QzlmDTmlYAg3TcXh78kvIYfEOqRPEO/view?usp=sharing
+
+Generate pose estimation data using AprilTag
+
+## Using command
+'''
+$ python data_generator_ver2_april.py
+'''
